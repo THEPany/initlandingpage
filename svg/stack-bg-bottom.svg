@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="204px" viewBox="0 0 1920 204" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>stack-bg-bottom</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="stack-bg-bottom">
+            <path d="M1.13686838e-13,136.962291 C466.370333,46.4273486 1106.37033,5.82657465 1920,15.1599689 C1920,61.3568441 1920,100.228557 1920,188.845568 L1.13686838e-13,204 C1.21896589e-13,165.40637 1.13686838e-13,151.878927 1.13686838e-13,136.962291 Z" id="Path" fill="#B5B1FF" transform="translate(960.000000, 108.925781) scale(-1, 1) rotate(-180.000000) translate(-960.000000, -108.925781) "></path>
+            <path d="M-4.206413e-12,181.416415 C306.406744,114.767171 617.020078,66.6855007 931.84,37.171405 C1246.65992,7.6573093 1576.04659,-4.2604678 1920,1.41807372 L1920,203.597086 L-4.206413e-12,204 L-4.206413e-12,181.416415 Z" id="Path" fill="#FAFAFF" transform="translate(960.000000, 102.021837) scale(-1, 1) rotate(-180.000000) translate(-960.000000, -102.021837) "></path>
+        </g>
+    </g>
+</svg>

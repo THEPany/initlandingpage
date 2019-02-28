@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  width="1920px" height="690px" viewBox="0 0 1920 690" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>BG-Gradient</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="39.1628817%" y1="-15.2376481%" x2="75.6942842%" y2="97.7778215%" id="header-bg-gradient-1">
+            <stop stop-color="#6cb2eb" offset="0%"></stop>
+            <stop stop-color="#2779bd" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="16.0305881%" y1="-20.4275486%" x2="75.6942842%" y2="97.7778215%" id="header-bg-gradient-2">
+               <stop stop-color="#6cb2eb" offset="0%"></stop>
+            <stop stop-color="#2779bd" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <path d="M1919,1 L0.999954129,1 L0.999954129,548.550209 C215.318748,641.444168 447.253487,690 686,690 C1156.39257,690 1596.69497,500.707128 1919,170.943757 L1919,1 Z" fill="url(#header-bg-gradient-1"></path>
+                    <path d="M1919.3484,0 C1603.1624,392.713785 1118.42672,644 575,644 C373.384629,644 179.847876,609.411322 -8.3445284e-06,545.844215 L-8.3445284e-06,0 L1919.3484,0 Z" fill="url(#header-bg-gradient-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
